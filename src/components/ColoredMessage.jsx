@@ -12,6 +12,7 @@ export const ColoredMessage = (props) => {
 
 
 // props を分解前提で受け取る場合
+// 分割代入 -> destructure というらしい
 //
 // export const ColoredMessage = ({ color, children }) => {
 
