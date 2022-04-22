@@ -74,3 +74,8 @@ state を変更する scope が終了してから画面が再描画される
     })
 }
 ```
+
+### CSS modules
+
+component で 必要な css を import して適用する  
+**component で閉じられるので競合しない**
